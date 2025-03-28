@@ -1,13 +1,5 @@
 # Random Number Generator  
-A simple web application that generates random numbers within user-defined ranges.  
-
----
-
-## Features  
-✅ **Customizable range**: Set minimum and maximum values  
-✅ **Multiple output formats**: Decimal, integer, or formatted string  
-✅ **Responsive design**: Works on desktop and mobile devices  
-✅ **Error handling**: Validates input ranges and values  
+A simple web application that generates random numbers within user-defined ranges. 
 
 ---
 
